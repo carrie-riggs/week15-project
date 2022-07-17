@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(46, 81, 83);
+}
+
+.card {
+  background-color: rgb(127, 216, 209);
+  width: 50%;
+  margin:auto;
+  padding: 10px;
+}
+
+.houseCard {
+  background-color: rgb(201, 231, 229);
+  width: 75%;
+  margin:auto;
+  margin-top: 15px;
+  padding: 0px 10px 10px 10px;
+  border-radius: 4px;
+}
+
+.delete {
+  background-color: rgb(156, 43, 43);
+  border: none;
+  margin-right: 5px;
+  margin-left: 5px;
+  color: rgb(255, 251, 242);
+}
+
+.add {
+  background-color: rgb(68, 129, 88);
+  border: none;
+  margin-right: 5px;
+  margin-left: 5px;
+  color: rgb(255, 251, 242);
+  font-size: 14px;
+}
+
+input {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+h1 {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
